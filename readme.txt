@@ -6,3 +6,4 @@ git tracks changes of files.
 creating a new branch is quick
 test
 creating a new branch is quick and simple
+test no fast forward merge branch
