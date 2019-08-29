@@ -8,3 +8,5 @@ test
 creating a new branch is quick and simple
 test no fast forward merge branch
 git test three branch merge
+git bug branch
+
